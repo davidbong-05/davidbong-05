@@ -6,7 +6,7 @@ Welcome to my GitHub profile! My name is David Bong, and I'm a final year Softwa
 
 ## 📚 Education
 
-- University Malaysia Sarawak (UNIMAS) - Bachelor of Computer Science (Software Engineering) with Honour (2019 - present)
+- Universiti Malaysia Sarawak (UNIMAS) - Bachelor of Computer Science (Software Engineering) with Honour (2019 - present)
 
 ## 🛠️ Technologies & Tools
 
@@ -17,18 +17,11 @@ Welcome to my GitHub profile! My name is David Bong, and I'm a final year Softwa
 
 ## 🔭 Current Projects
 
-- [Elysium](https://github.com/davidbong-05/elysium.git): This NFT Marketplace is my final year project. It is a decentralized application that allows users to mint, buy, and sell NFTs. It is built using Vue 3, Express, MongoDB, Solidity, and Hardhat.
+- [Elysium](https://github.com/davidbong-05/elysium.git): A NFT Marketplace - my final year project. It is a decentralized application that allows users to mint, buy, and sell NFTs. It is built using Vue 3, Express, MongoDB, Solidity, and Hardhat.
 
 ## 🌱 What I'm Learning
 
 - [Solidity](https://docs.soliditylang.org/en/v0.8.6/): I'm currently exploring Solidity to expand my knowledge into Web 3 development.
-
-## 💬 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/davidbong05/)
-- Email:[davidbong05@gmail.com](mailto:davidbong05@gmail.com)
-
-Feel free to reach out to me on any of these platforms! I'm always open to meeting new people and collaborating on interesting projects.
 
 ## 📈 GitHub Stats
 
@@ -40,5 +33,10 @@ Feel free to reach out to me on any of these platforms! I'm always open to meeti
 - Ice cream 🍦 and chocolate 🍫 are my guilty pleasures.
 - I love all kinds of fluffy animals 🐶🐱🐹.
 - I can speak 3 languages and 1 dialect: English, Mandarin, Malay, and Hokkien.
+
+## 💬 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/davidbong05/)
+- [davidbong05@gmail.com](mailto:davidbong05@gmail.com)
 
 Thanks for stopping by my profile! I look forward to connecting with you.
