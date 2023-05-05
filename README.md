@@ -38,5 +38,6 @@ Welcome to my GitHub profile! My name is David Bong, and I'm a final year Softwa
 
 - [LinkedIn](https://www.linkedin.com/in/davidbong05/)
 - [davidbong05@gmail.com](mailto:davidbong05@gmail.com)
+- [My Resume Faucet](https://david-resume-faucet.netlify.app/)
 
 Thanks for stopping by my profile! I look forward to connecting with you.
