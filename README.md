@@ -23,10 +23,6 @@ Welcome to my GitHub profile! My name is David Bong, and I'm a final year Softwa
 
 - [Solidity](https://docs.soliditylang.org/en/v0.8.6/): I'm currently exploring Solidity to expand my knowledge into Web 3 development.
 
-## 📈 GitHub Stats
-
-![davidbong-05's GitHub stats](https://github-readme-stats.vercel.app/api?username=davidbong-05&show_icons=true&theme=radical)
-
 ## ⚡ Fun Facts About Me
 
 - When I'm not coding, you can find me playing basketball 🏀, ultimate frisbee 🥏, or working out 🏋️‍♀️.
