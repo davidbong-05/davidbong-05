@@ -2,11 +2,13 @@
 
 Welcome to my GitHub profile! My name is David Bong, and I'm a final year Software Engineering Undergrad based in Sarawak, Malaysia. I'm a passionate and inquisitive programmer. Eager to learn and dare to take on challenges. Able to work with minimal supervision. Highly interested in Web 3.0 Technology.
 
-❗❗ I am currently looking for a Full Time Software Developer position. If you are hiring, please feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/davidbong05/) or drop an email at [davidbong05@gmail.com](mailto:davidbong05@gmail.com).
+## 👨‍💻 Working Experience
+
+- Software Engineer (.Net) @ Boostorder - As a part of the Sync team, my main role involve in developing integrations for different accountings system that allow my company to sync data between the accounting system and our cloud, maintaining the Syncer, and enhance the Syncer.
 
 ## 📚 Education
 
-- Universiti Malaysia Sarawak (UNIMAS) - Bachelor of Computer Science (Software Engineering) with Honour (2019 - present)
+- Universiti Malaysia Sarawak (UNIMAS) - Bachelor of Computer Science (Software Engineering) with Honour (2019 - 2023)
 
 ## 🛠️ Technologies & Tools
 
