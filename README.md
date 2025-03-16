@@ -1,6 +1,6 @@
 # Hello, world! 👋
 
-Welcome to my GitHub profile! My name is David Bong, and I'm a final year Software Engineering Undergrad based in Sarawak, Malaysia. I'm a passionate and inquisitive programmer. Eager to learn and dare to take on challenges. Able to work with minimal supervision. Highly interested in Web 3.0 Technology.
+Welcome to my GitHub profile! My name is David Bong, and I'm a full time software engineer speciallised in Accounting System and ERP integration based in Penang, Malaysia. I'm a passionate and inquisitive programmer. Eager to learn and dare to take on challenges. Able to work with minimal supervision. Highly interested in Web 3.0 Technology.
 
 ## 👨‍💻 Working Experience
 
@@ -12,9 +12,9 @@ Welcome to my GitHub profile! My name is David Bong, and I'm a final year Softwa
 
 ## 🛠️ Technologies & Tools
 
-- **Languages:** JavaScript, PHP, Solidity, C/C++
+- **Languages:** C#, JavaScript, PHP, Solidity, C/C++
 - **Frontend:** Vue.js, HTML, CSS, Bootstrap, Tailwind CSS
-- **Backend:** Laravel, Node.js, Express.js, MongoDB, MySQL
+- **Backend:** .NET, Laravel, Node.js, Express.js, MongoDB, MySQL
 - **Others:** Git, GitHub, Heroku, Netlify
 
 ## 🔭 Current Projects
@@ -27,7 +27,7 @@ Welcome to my GitHub profile! My name is David Bong, and I'm a final year Softwa
 
 ## ⚡ Fun Facts About Me
 
-- When I'm not coding, you can find me playing basketball 🏀, ultimate frisbee 🥏, or working out 🏋️‍♀️.
+- When I'm not coding, you can find me chasing 175g plastic on the field🥏, or working out 🏋️‍♀️.
 - Ice cream 🍦 and chocolate 🍫 are my guilty pleasures.
 - I love all kinds of fluffy animals 🐶🐱🐹.
 - I can speak 3 languages and 1 dialect: English, Mandarin, Malay, and Hokkien.
@@ -36,6 +36,5 @@ Welcome to my GitHub profile! My name is David Bong, and I'm a final year Softwa
 
 - [LinkedIn](https://www.linkedin.com/in/davidbong05/)
 - [davidbong05@gmail.com](mailto:davidbong05@gmail.com)
-- [My Resume Faucet](https://david-resume-faucet.netlify.app/)
 
 Thanks for stopping by my profile! I look forward to connecting with you.
