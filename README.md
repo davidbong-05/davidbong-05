@@ -1,40 +1,78 @@
 # Hello, world! 👋
 
-Welcome to my GitHub profile! My name is David Bong, and I'm a full time software engineer speciallised in Accounting System and ERP integration based in Penang, Malaysia. I'm a passionate and inquisitive programmer. Eager to learn and dare to take on challenges. Able to work with minimal supervision. Highly interested in Web 3.0 Technology.
+I'm **David Bong**, a software engineer based in **Penang, Malaysia**, currently focused on building reliable **AI agent systems, backend platforms, and product software**.
 
-## 👨‍💻 Working Experience
+My experience spans enterprise integrations, offline-first mobile development, and production agentic AI. I enjoy working on systems where the hard part is not just writing code, but making the architecture **reliable, understandable, and maintainable in the real world**.
 
-- Software Engineer (.Net) @ Boostorder - As a part of the Sync team, my main role involve in developing integrations for different accountings system that allow my company to sync data between the accounting system and our cloud, maintaining the Syncer, and enhance the Syncer.
+## 👨‍💻 What I Work On
+
+### 🤖 Applied AI & Agentic Systems
+
+At **Boostorder**, I currently work on production AI-agent systems and customer-facing AI deployments.
+
+My work includes:
+
+- Designing and simplifying agent architectures to reduce unnecessary handoffs, overlapping tools, and routing ambiguity.
+- Improving agent reliability through better tool contracts, context design, capability boundaries, and deterministic guardrails.
+- Building evaluation and regression approaches for agent behaviour, including trajectory, faithfulness, and hallucination-related issues.
+- Debugging production issues and working directly with customers to understand requirements, deploy fixes, and turn recurring use cases into reusable platform improvements.
+
+### 📱 Offline-First Mobile Engineering
+
+Previously, I worked on an **offline-first Flutter application** within a team of 4 developers and 1 QA.
+
+- Worked on local persistence using **Drift** and background synchronization.
+- Helped drive a disciplined development cadence and transparent team communication.
+- Built for environments where connectivity could not be assumed, requiring the application to remain useful and recover reliably when synchronization resumed.
+
+### 🔄 Backend & Enterprise Integrations
+
+I started my professional career working heavily with **.NET, APIs, ERP/accounting integrations, and distributed data synchronization**.
+
+- Built integrations for systems including **SAP ECC, Sage 300 ERP, and QuickBooks Online**.
+- Co-developed cloud synchronization architecture for enterprise data flows.
+- Used **RabbitMQ** to improve API success rates from **60% to 98%** and reduce response time from roughly **15 seconds to under 500 ms**.
+- Built configurable data-transformation capabilities for APIs, databases, and spreadsheet-based workflows.
+
+## 🛠️ Technologies & Engineering Areas
+
+- **Languages:** Python, C#, Dart, JavaScript, PHP
+- **AI / Agentic Systems:** LLM applications, agent orchestration, tool calling, context engineering, structured outputs, guardrails, evaluation
+- **Mobile:** Flutter, Drift, offline-first architecture, background synchronization
+- **Backend:** .NET, REST APIs, RabbitMQ, Laravel, Node.js
+- **Data:** MySQL, MS SQL, MongoDB
+- **Engineering:** System integration, distributed workflows, API design, TDD, code review, architecture, production debugging
+- **Tools:** Git, GitHub, Docker
+
+## 🧭 How I Think About Engineering
+
+I tend to work on systems with a lot of ambiguity: external integrations, unreliable connectivity, probabilistic AI behaviour, or customer-specific requirements.
+
+A principle I increasingly follow is:
+
+> **Reduce unnecessary complexity, make capabilities explicit, and keep correctness deterministic wherever it matters.**
+
+I care about building software that is not only capable, but also observable, debuggable, and maintainable by the next engineer.
 
 ## 📚 Education
 
-- Universiti Malaysia Sarawak (UNIMAS) - Bachelor of Computer Science (Software Engineering) with Honour (2019 - 2023)
+**Universiti Malaysia Sarawak (UNIMAS)**  
+Bachelor of Computer Science (Software Engineering) with Honours, 2019–2023
 
-## 🛠️ Technologies & Tools
+## 🧪 Earlier Project
 
-- **Languages:** C#, JavaScript, PHP, Solidity, C/C++
-- **Frontend:** Vue.js, HTML, CSS, Bootstrap, Tailwind CSS
-- **Backend:** .NET, Laravel, Node.js, Express.js, MongoDB, MySQL
-- **Others:** Git, GitHub, Heroku, Netlify
+- [Elysium](https://github.com/davidbong-05/elysium): My final-year project exploring Web3 — an NFT marketplace built with Vue 3, Express, MongoDB, Solidity, and Hardhat.
 
-## 🔭 Current Projects
+## ⚡ Outside Engineering
 
-- [Elysium](https://github.com/davidbong-05/elysium.git): A NFT Marketplace - my final year project. It is a decentralized application that allows users to mint, buy, and sell NFTs. It is built using Vue 3, Express, MongoDB, Solidity, and Hardhat.
-
-## 🌱 What I'm Learning
-
-- [Solidity](https://docs.soliditylang.org/en/v0.8.6/): I'm currently exploring Solidity to expand my knowledge into Web 3 development.
-
-## ⚡ Fun Facts About Me
-
-- When I'm not coding, you can find me chasing 175g plastic on the field🥏, or working out 🏋️‍♀️.
-- Ice cream 🍦 and chocolate 🍫 are my guilty pleasures.
-- I love all kinds of fluffy animals 🐶🐱🐹.
-- I can speak 3 languages and 1 dialect: English, Mandarin, Malay, and Hokkien.
+- You may find me chasing a 175g plastic disc on the field 🥏 or working out 🏋️.
+- Ice cream 🍦 and chocolate 🍫 remain difficult to resist.
+- I have a soft spot for fluffy animals 🐶🐱🐹.
+- I speak English, Mandarin, Malay, and Hokkien.
 
 ## 💬 Let's Connect
 
 - [LinkedIn](https://www.linkedin.com/in/davidbong05/)
-- [davidbong05@gmail.com](mailto:davidbong05@gmail.com)
+- [Email](mailto:davidbong05@gmail.com)
 
-Thanks for stopping by my profile! I look forward to connecting with you.
+Thanks for stopping by! 👋
